@@ -1,0 +1,2 @@
+This model consist of the pretrained weights `YOLO11m-obb` from ultralytics accessible at [https://docs.ultralytics.com/tasks/obb/#visual-samples](https://docs.ultralytics.com/tasks/obb/#visual-samples).
+The model was trained on the DOTAv1 dataset using the medium model (20.9M parameters).
